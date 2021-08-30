@@ -1,7 +1,7 @@
 
 # Vefforritun 1, 2021: Verkefni 2, HTML #2
 
-[Kynning í fyrirlestri](https://youtu.be/).
+[Kynning í fyrirlestri](https://youtu.be/qyQ5S3cry1E).
 
 Setja skal upp fjórar síður um nám í tölvunarfræði við HÍ, aðgengilegar af internetinu:
 
